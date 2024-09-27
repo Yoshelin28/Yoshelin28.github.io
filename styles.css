@@ -1,0 +1,28 @@
+body {
+    background-color: #ffccff; /* Color de fondo rosa */
+    font-family: Arial, sans-serif;
+    color: #2f163b;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+.decoraciones {
+    margin: 20px 0;
+}
+
+.decoracion {
+    width: 100px; /* Tamaño de las decoraciones */
+    margin: 10px;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 14px;
+}
